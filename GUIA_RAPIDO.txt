@@ -1,0 +1,13 @@
+GUARDIAO DE DADOS 1.0 — GUIA DO CELULAR
+======================================
+1) Envie ESTE ZIP diretamente para a RAIZ de um repositório GitHub novo na branch main.
+2) Confira se a pasta oculta .github/workflows/main.yml apareceu no GitHub.
+3) Abra Actions > Gerar APK - Guardiao de Dados > execução verde > Artifacts.
+4) Baixe Guardiao-de-Dados-APK e extraia app-debug.apk.
+5) Instale no Android.
+6) Consumo > Dar acesso > autorize Dados de uso > Atualizar.
+7) Bloqueio > selecione app(s) > Ativar bloqueio > permita VPN do Android.
+8) Para parar: Desligar bloqueio ou notificação do app.
+
+Este app é um monitor de HISTÓRICO e bloqueador LOCAL. Não é medidor preciso
+por segundo e não libera internet ChatGPT pela franquia WhatsApp.
